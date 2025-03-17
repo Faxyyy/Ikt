@@ -1,3 +1,14 @@
 p{
     color: aqua;
 }
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%; 
+    height: 15cm;
+    margin: auto;
+    color: rgb(115, 233, 5);
+    background-image: linear-gradient(to bottom right, rgb(255, 0, 149), rgb(17, 0, 255));
+    box-shadow: 20px 20px 20px rgb(255, 0, 0);
+    margin-bottom: 100px;
+    }
